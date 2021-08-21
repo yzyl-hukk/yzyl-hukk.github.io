@@ -4,6 +4,7 @@ permalink: /index.html
 
 # 欢迎来到hukk的主页
 
+[快速访问](/links)
 
 ---
 #### 友情链接：
