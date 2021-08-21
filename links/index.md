@@ -1,6 +1,7 @@
 ---
 permalink: /index.html
 ---
+
 # 快速访问
 [洛谷](https://www.luogu.com.cn/)
 
